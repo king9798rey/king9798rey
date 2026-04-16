@@ -1,17 +1,18 @@
 # Hello 👋, I'm Ayush
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0078D4&width=435&lines=Data+Analyst+Aspirant;Machine+Learning+Engineer;B.Tech+CSE+Student)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0078D4&width=435&lines=Data+Analyst+Aspirant;Machine+Learning+Engineer;B.Tech+CSE(AIML)+Student)
 
 ---
 
 ### 🔗 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](YOUR_PORTFOLIO_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-yadav-2a68b6218/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ayushyaduvanshi168@gmail.com)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/ayushydv01/)
+
 
 ---
 
-### 🧐 Who is [Aapka Naam]?
+### 🧐 Who is Ayush?
 - 🎓 **Education:** Final year B.Tech student in Computer Science & Engineering.
 - 🎯 **Objective:** Passionate about turning raw data into business stories and building intelligent ML models.
 - ⚡ **Expertise:** Primarily revolves around Python, Machine Learning, Power BI, and SQL. 
@@ -44,10 +45,4 @@
 
 ---
 
-### 🏆 Coding Profiles
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/ayushydv01/)
 
----
-
-### 📊 LeetCode Stats
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=ayushydv01&theme=dark)
